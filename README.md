@@ -1,0 +1,2 @@
+# MySchoolProject
+QR-code generator
